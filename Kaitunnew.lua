@@ -13,13 +13,13 @@ end
 local sitinklib = loadstring(game:HttpGet("https://github.com/ErutTheTeru/uilibrary/blob/main/Sitink%20Lib/Source.lua?raw=true"))()
 local sitinkgui = sitinklib:Start({
     ["Name"] = "LH Hub | KaitunBf",
-    ["Description"] = "Long And Huy",
+    ["Description"] = "By Hvanlongg",
     ["Info Color"] = Color3.fromRGB(5.000000176951289, 59.00000028312206, 113.00000086426735),
-    ["Logo Info"] = "rbxassetid://18243105495",
-    ["Logo Player"] = "rbxassetid://18243105495",
-    ["Name Info"] = "LH Hub Info",
+    ["Logo Info"] = "",
+    ["Logo Player"] = "",
+    ["Name Info"] = "Havanlongg",
     ["Name Player"] = "havanlong_",
-    ["Info Description"] = "discord.gg/3Aatp4Nhjp",
+    ["Info Description"] = "",
     ["Tab Width"] = 135,
     ["Color"] = Color3.fromRGB(127.00000002980232, 146.00000649690628, 242.00000077486038),
     ["CloseCallBack"] = function() end
